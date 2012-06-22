@@ -1,0 +1,39 @@
+Partlist
+
+Exported from MAMEInput.sch at 6/22/12 10:13 AM
+
+EAGLE Version 5.11.0 Copyright (c) 1988-2010 CadSoft
+
+Part     Value                    Device                   Package      Library      Sheet	Reichelt Order No	Price	Comments
+
+C1       27p                      C-EU025-025X050          C025-025X050 rcl          1		KERKO 22P		0.06¿
+C2       27p                      C-EU025-025X050          C025-025X050 rcl          1		KERKO 22P		0.06¿
+C3       10µ                      CPOL-EUE5-10.5           E5-10,5      rcl          1		RAD 47/100		0.06¿	Any electrolythic capacitor with 5mm pitch and >10µF will work
+C4       100n                     C-EU050-030X075          C050-030X075 rcl          1		MKS-2-5 100N		0.07¿
+D1       3v6                      ZENER-DIODEZD-10         ZDIO-10      diode        1		ZF 3,6			0.05¿
+D2       3v6                      ZENER-DIODEZD-10         ZDIO-10      diode        1		ZF 3,6			0.05¿
+IC1      74HCT165N                74HCT165N                DIL16        74xx-eu      1		74HCT 165		0.30¿
+IC2      74HCT165N                74HCT165N                DIL16        74xx-eu      1		74HCT 165		0.30¿
+IC3      74HCT165N                74HCT165N                DIL16        74xx-eu      1		74HCT 165		0.30¿
+IC4      74HCT165N                74HCT165N                DIL16        74xx-eu      1		74HCT 165		0.30¿
+IC5      AT90S2313P               AT90S2313P               DIL20        atmel        1		ATTINY 2313 DIP		1.40¿	No attiny2313 in eagle, so I used AT90S2313P
+J1       AVR_SPI_PRG_6OFFSET_PADS AVR_SPI_PRG_6OFFSET_PADS 2X3_OFFSET   SparkFun     1		WSL 6G			0.16¿	For ISP programming
+R1       10k                      R-EU_0207/10             0207/10      rcl          1		1/4W 10K		0.10¿
+R2       68                       R-EU_0207/10             0207/10      rcl          1		1/4W 68			0.10¿
+R3       68                       R-EU_0207/10             0207/10      rcl          1		1/4W 68			0.10¿
+R4       1k5                      R-EU_0207/10             0207/10      rcl          1		1/4W 1,5K		0.10¿
+X1       USBPTH                   USBPTH                   USB-B-PTH    SparkFun     1		USB BW			0.21¿
+X2                                W237-4                   W237-4       con-wago-500 1	 	AKL 055-04              0.39¿ 
+X3                                W237-4                   W237-4       con-wago-500 1          AKL 055-04              0.39¿
+X4                                W237-4                   W237-4       con-wago-500 1          AKL 055-04              0.39¿
+X5                                W237-4                   W237-4       con-wago-500 1          AKL 055-04              0.39¿
+X6                                W237-4                   W237-4       con-wago-500 1          AKL 055-04              0.39¿
+X7                                W237-4                   W237-4       con-wago-500 1          AKL 055-04              0.39¿
+X8                                W237-4                   W237-4       con-wago-500 1          AKL 055-04              0.39¿
+X9                                W237-4                   W237-4       con-wago-500 1          AKL 055-04              0.39¿
+X10                               W237-102                 W237-102     con-wago-500 1		AKL 055-04		0.39¿
+Y1                                CRYSTALHC49US            HC49US       SparkFun     1		12,0000-HC18		0.18¿
+
+SUM															7.41¿
+
+(You might wish to add a few cents for the IC sockets and the PCB)
